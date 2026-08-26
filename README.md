@@ -1,4 +1,4 @@
-# UNAB - Aprendizaje Profundo (Deep Learning)
+# Aprendizaje Profundo (Deep Learning)
 
 ## Descripción
 
